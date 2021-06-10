@@ -14,7 +14,7 @@ def main():
     
     
     #Update data
-    #crawler.crawl_data(root_path)
+    crawler.crawl_data(root_path)
 
 
     df = pd.read_pickle(PATH_TO_PICKLE)
