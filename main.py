@@ -86,9 +86,9 @@ def task_05(update_date=True):
     '''
        Task 5
     '''
-    if update_date:
+    #if update_date:
         #Update data
-        crawler.crawl_data(root_path)
+        #crawler.crawl_data(root_path)
 
 
     #readFile
